@@ -1,0 +1,30 @@
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# Personal configuration files
+.idea/workspace.xml
+.idea/tasks.xml
+
+node_modules
+
+# Sensitive files
+*.env
+*.pem
+*.key
+
+# Build artifacts
+*.jar
+*.war
+*.class
+
+# Dependency management files
+package-lock.json
+
+# Testing artifacts
+*.xml
